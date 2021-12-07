@@ -5,8 +5,10 @@
 
 .chores h3 {
     text-decoration: underline;
+    text-align: center;
 }
 
 .chores li {
     font-style: italic;
 }
+
